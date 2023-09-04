@@ -1,6 +1,6 @@
 # AlienGenX
 
-![67D9C9EB-1478-40DE-8553-78D3214542F7_1_102_o](https://github.com/dev-32/AlienGenX/assets/99115141/8bbc91e6-d3d5-47f2-af1e-fc4ce7ebb3ca)
+<img width="1440" alt="Screenshot 2023-09-05 at 2 53 02 AM" src="https://github.com/dev-32/AlienGenX/assets/99115141/5eaea8da-8ff5-488a-acf5-78df86904bf9">
 
 A new Flutter project.
 
